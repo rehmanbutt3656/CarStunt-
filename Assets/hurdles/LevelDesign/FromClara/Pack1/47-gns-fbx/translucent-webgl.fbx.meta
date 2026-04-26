@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: a726a6511b7204b45971d2e1ac94d7f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AreaLight
+    100002: AreaLight1
+    100004: Blue
+    100006: Camera
+    100008: Green
+    100010: PointLight
+    100012: PointLight1
+    100014: PointLight2
+    100016: PointLight3
+    100018: PointLight4
+    100020: PointLight5
+    100022: PointLight6
+    100024: PointLight7
+    100026: Red
+    100028: //RootNode
+    100030: wall
+    100032: wall 1
+    100034: Yellow
+    400000: AreaLight
+    400002: AreaLight1
+    400004: Blue
+    400006: Camera
+    400008: Green
+    400010: PointLight
+    400012: PointLight1
+    400014: PointLight2
+    400016: PointLight3
+    400018: PointLight4
+    400020: PointLight5
+    400022: PointLight6
+    400024: PointLight7
+    400026: Red
+    400028: //RootNode
+    400030: wall
+    400032: wall 1
+    400034: Yellow
+    2000000: Camera
+    2100000: w1
+    2100002: w3
+    2100004: Wood Dark Polished
+    2100006: w4
+    2100008: w2
+    2300000: Blue
+    2300002: Green
+    2300004: Red
+    2300006: wall
+    2300008: wall 1
+    2300010: Yellow
+    3300000: Blue
+    3300002: Green
+    3300004: Red
+    3300006: wall
+    3300008: wall 1
+    3300010: Yellow
+    4300000: Yellow
+    4300002: Blue
+    4300004: wall
+    4300006: wall
+    4300008: Green
+    4300010: Red
+    10800000: AreaLight
+    10800002: AreaLight1
+    10800004: PointLight
+    10800006: PointLight1
+    10800008: PointLight2
+    10800010: PointLight3
+    10800012: PointLight4
+    10800014: PointLight5
+    10800016: PointLight6
+    10800018: PointLight7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

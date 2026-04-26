@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 34b0003e4bb522c4fba6906fc9ad8838
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Box
+    100004: Box1
+    100006: Box2
+    100008: Camera
+    100010: FillLight
+    100012: KeyLight
+    100014: LightPreset
+    100016: Merged_Meshes
+    100018: Merged_Meshes1
+    100020: Plane
+    100022: //RootNode
+    100024: Sphere
+    100026: Sphere1
+    100028: Sphere2
+    100030: Sphere3
+    100032: Sphere4
+    400000: BackLight
+    400002: Box
+    400004: Box1
+    400006: Box2
+    400008: Camera
+    400010: FillLight
+    400012: KeyLight
+    400014: LightPreset
+    400016: Merged_Meshes
+    400018: Merged_Meshes1
+    400020: Plane
+    400022: //RootNode
+    400024: Sphere
+    400026: Sphere1
+    400028: Sphere2
+    400030: Sphere3
+    400032: Sphere4
+    2000000: Camera
+    2100000: b0b0b0
+    2100002: ef0000
+    2100004: 0
+    2100006: No Name
+    2300000: Box
+    2300002: Box1
+    2300004: Box2
+    2300006: Merged_Meshes
+    2300008: Merged_Meshes1
+    2300010: Plane
+    2300012: Sphere
+    2300014: Sphere1
+    2300016: Sphere2
+    2300018: Sphere3
+    2300020: Sphere4
+    3300000: Box
+    3300002: Box1
+    3300004: Box2
+    3300006: Merged_Meshes
+    3300008: Merged_Meshes1
+    3300010: Plane
+    3300012: Sphere
+    3300014: Sphere1
+    3300016: Sphere2
+    3300018: Sphere3
+    3300020: Sphere4
+    4300000: Sphere
+    4300002: Box
+    4300004: Sphere4
+    4300006: Sphere3
+    4300008: Box1
+    4300010: Plane
+    4300012: Sphere1
+    4300014: Sphere2
+    4300016: Merged_Meshes1
+    4300018: Box2
+    7400000: Base stack
+    9500000: //RootNode
+    10800000: BackLight
+    10800002: FillLight
+    10800004: KeyLight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

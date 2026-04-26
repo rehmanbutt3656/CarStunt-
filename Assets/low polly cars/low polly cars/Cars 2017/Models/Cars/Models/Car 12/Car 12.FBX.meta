@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: b156f770a9a1d184897fa9be4c91a5c1
+timeCreated: 1500975454
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Brake_BL
+    100004: Brake_BR
+    100006: Brake_FL
+    100008: Brake_FR
+    100010: //RootNode
+    100012: Door_L
+    100014: Door_R
+    100016: Slider01
+    100018: Slider01 1
+    100020: Slider01 10
+    100022: Slider01 11
+    100024: Slider01 12
+    100026: Slider01 13
+    100028: Slider01 14
+    100030: Slider01 15
+    100032: Slider01 16
+    100034: Slider01 17
+    100036: Slider01 18
+    100038: Slider01 19
+    100040: Slider01 2
+    100042: Slider01 3
+    100044: Slider01 4
+    100046: Slider01 5
+    100048: Slider01 6
+    100050: Slider01 7
+    100052: Slider01 8
+    100054: Slider01 9
+    100056: Steer
+    100058: Wheel_BL
+    100060: Wheel_BR
+    100062: Wheel_FR
+    100064: Wheel_RL
+    100066: 'Wing '
+    400000: Body
+    400002: Brake_BL
+    400004: Brake_BR
+    400006: Brake_FL
+    400008: Brake_FR
+    400010: //RootNode
+    400012: Door_L
+    400014: Door_R
+    400016: Slider01
+    400018: Slider01 1
+    400020: Slider01 10
+    400022: Slider01 11
+    400024: Slider01 12
+    400026: Slider01 13
+    400028: Slider01 14
+    400030: Slider01 15
+    400032: Slider01 16
+    400034: Slider01 17
+    400036: Slider01 18
+    400038: Slider01 19
+    400040: Slider01 2
+    400042: Slider01 3
+    400044: Slider01 4
+    400046: Slider01 5
+    400048: Slider01 6
+    400050: Slider01 7
+    400052: Slider01 8
+    400054: Slider01 9
+    400056: Steer
+    400058: Wheel_BL
+    400060: Wheel_BR
+    400062: Wheel_FR
+    400064: Wheel_RL
+    400066: 'Wing '
+    2300000: Body
+    2300002: Brake_BL
+    2300004: Brake_BR
+    2300006: Brake_FL
+    2300008: Brake_FR
+    2300010: Door_L
+    2300012: Door_R
+    2300014: Steer
+    2300016: Wheel_BL
+    2300018: Wheel_BR
+    2300020: Wheel_FR
+    2300022: Wheel_RL
+    2300024: 'Wing '
+    3300000: Body
+    3300002: Brake_BL
+    3300004: Brake_BR
+    3300006: Brake_FL
+    3300008: Brake_FR
+    3300010: Door_L
+    3300012: Door_R
+    3300014: Steer
+    3300016: Wheel_BL
+    3300018: Wheel_BR
+    3300020: Wheel_FR
+    3300022: Wheel_RL
+    3300024: 'Wing '
+    4300000: Body
+    4300002: Door_L
+    4300004: Door_R
+    4300006: Wheel_RL
+    4300008: Wheel_BL
+    4300010: Wheel_BR
+    4300012: Wheel_FR
+    4300014: Steer
+    4300016: Brake_FR
+    4300018: Brake_FL
+    4300020: Brake_BL
+    4300022: Brake_BR
+    4300024: 'Wing '
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

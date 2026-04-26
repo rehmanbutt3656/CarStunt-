@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 68e918a6a5b49a94cae68d501251f3a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Bumper
+    100002: BackLight
+    100004: Body
+    100006: //RootNode
+    100008: FillLight
+    100010: Front_Bumper
+    100012: FrontBase
+    100014: Generic
+    100016: Internal
+    100018: KeyLight
+    100020: LightPreset
+    100022: Mirrors
+    100024: Plane
+    100026: Steering
+    100028: Treads
+    100030: TurnTableCamera
+    100032: Tyres
+    100034: Wheel Plates
+    400000: Back_Bumper
+    400002: BackLight
+    400004: Body
+    400006: //RootNode
+    400008: FillLight
+    400010: Front_Bumper
+    400012: FrontBase
+    400014: Generic
+    400016: Internal
+    400018: KeyLight
+    400020: LightPreset
+    400022: Mirrors
+    400024: Plane
+    400026: Steering
+    400028: Treads
+    400030: TurnTableCamera
+    400032: Tyres
+    400034: Wheel Plates
+    2000000: TurnTableCamera
+    2100000: Metal
+    2100002: tread
+    2100004: body
+    2100006: glass
+    2100008: generic
+    2100010: mirrors
+    2100012: steering
+    2100014: 898988
+    2300000: Back_Bumper
+    2300002: Body
+    2300004: Front_Bumper
+    2300006: FrontBase
+    2300008: Generic
+    2300010: Internal
+    2300012: Mirrors
+    2300014: Plane
+    2300016: Steering
+    2300018: Treads
+    2300020: Tyres
+    2300022: Wheel Plates
+    3300000: Back_Bumper
+    3300002: Body
+    3300004: Front_Bumper
+    3300006: FrontBase
+    3300008: Generic
+    3300010: Internal
+    3300012: Mirrors
+    3300014: Plane
+    3300016: Steering
+    3300018: Treads
+    3300020: Tyres
+    3300022: Wheel Plates
+    4300000: Wheel Plates
+    4300002: Tyres
+    4300004: Front_Bumper
+    4300006: FrontBase
+    4300008: Generic
+    4300010: Mirrors
+    4300012: Back_Bumper
+    4300014: Treads
+    4300016: Steering
+    4300018: Plane
+    4300020: Body
+    4300022: Internal
+    10800000: BackLight
+    10800002: FillLight
+    10800004: KeyLight
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

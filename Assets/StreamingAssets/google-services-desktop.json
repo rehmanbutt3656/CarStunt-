@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "112664088730",
+    "firebase_url": "https://game-pace.firebaseio.com",
+    "project_id": "game-pace",
+    "storage_bucket": "game-pace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:2327f3b93571be3d7e0f23",
+        "android_client_info": {
+          "package_name": "com.animal.zoo.transport.sim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:d38fefb2cff1dd357e0f23",
+        "android_client_info": {
+          "package_name": "com.army.prisoner.transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:4540c2bd341d2a0f7e0f23",
+        "android_client_info": {
+          "package_name": "com.gp.animal.zoo.transport.sim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:9ab0fb36568016aa7e0f23",
+        "android_client_info": {
+          "package_name": "com.gp.grand.train.robot.transformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:424d32b3dc4e60437e0f23",
+        "android_client_info": {
+          "package_name": "com.gp.ramp.monster.truck.stunts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112664088730:android:8e260c14422eaa627e0f23",
+        "android_client_info": {
+          "package_name": "com.gp.robot.speed.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIMhi9u0ikKmvIMfAyBsRVzZsi6Js3Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112664088730-dt2ceqhi923g4a02li23ahof7lqo85ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 9a92df3976f6ff740925ca851c415f3a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RC Truck Tyre V01 FL
+    100002: RC Truck Tyre V01 FR
+    100004: RC Truck Tyre V01 RL
+    100006: RC Truck Tyre V01 RL001
+    100008: RC Truck Tyre V01 RL002
+    100010: RC Truck Tyre V01 RL003
+    100012: RC Truck Tyre V01 RR
+    100014: RC Truck Tyre V01 RR001
+    100016: RC Truck Tyre V01 RR002
+    100018: RC Truck Tyre V01 RR003
+    100020: //RootNode
+    100022: RC Truck Trailer V01
+    100024: RC Truck V01 Body
+    400000: RC Truck Tyre V01 FL
+    400002: RC Truck Tyre V01 FR
+    400004: RC Truck Tyre V01 RL
+    400006: RC Truck Tyre V01 RL001
+    400008: RC Truck Tyre V01 RL002
+    400010: RC Truck Tyre V01 RL003
+    400012: RC Truck Tyre V01 RR
+    400014: RC Truck Tyre V01 RR001
+    400016: RC Truck Tyre V01 RR002
+    400018: RC Truck Tyre V01 RR003
+    400020: //RootNode
+    400022: RC Truck Trailer V01
+    400024: RC Truck V01 Body
+    2300000: RC Truck Tyre V01 FL
+    2300002: RC Truck Tyre V01 FR
+    2300004: RC Truck Tyre V01 RL
+    2300006: RC Truck Tyre V01 RL001
+    2300008: RC Truck Tyre V01 RL002
+    2300010: RC Truck Tyre V01 RL003
+    2300012: RC Truck Tyre V01 RR
+    2300014: RC Truck Tyre V01 RR001
+    2300016: RC Truck Tyre V01 RR002
+    2300018: RC Truck Tyre V01 RR003
+    2300020: //RootNode
+    2300022: RC Truck Trailer V01
+    2300024: RC Truck V01 Body
+    3300000: RC Truck Tyre V01 FL
+    3300002: RC Truck Tyre V01 FR
+    3300004: RC Truck Tyre V01 RL
+    3300006: RC Truck Tyre V01 RL001
+    3300008: RC Truck Tyre V01 RL002
+    3300010: RC Truck Tyre V01 RL003
+    3300012: RC Truck Tyre V01 RR
+    3300014: RC Truck Tyre V01 RR001
+    3300016: RC Truck Tyre V01 RR002
+    3300018: RC Truck Tyre V01 RR003
+    3300020: //RootNode
+    3300022: RC Truck Trailer V01
+    3300024: RC Truck V01 Body
+    4300000: RC Truck V01 Body
+    4300002: RC Truck Tyre V01 RL003
+    4300004: RC Truck Tyre V01 RL002
+    4300006: RC Truck Tyre V01 RL001
+    4300008: RC Truck Tyre V01 RR001
+    4300010: RC Truck Tyre V01 RR002
+    4300012: RC Truck Tyre V01 RR003
+    4300014: RC Truck Tyre V01 RR
+    4300016: RC Truck Tyre V01 RL
+    4300018: RC Truck Tyre V01 FR
+    4300020: RC Truck Tyre V01 FL
+    4300022: RC Truck Trailer V01
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 

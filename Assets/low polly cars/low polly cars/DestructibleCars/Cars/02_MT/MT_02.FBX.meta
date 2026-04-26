@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: c511fc3de4ada654badee209da1b95ec
+timeCreated: 1441222414
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MT_02_Body
+    100004: MT_02_Dashboard
+    100006: MT_02_Door_R
+    100008: MT_02_Door_R001
+    100010: MT_02_Glass_B
+    100012: MT_02_Glass_BC
+    100014: MT_02_Glass_BL
+    100016: MT_02_Glass_F
+    100018: MT_02_Glass_L
+    100020: MT_02_Glass_R
+    100022: MT_02_Hood
+    100024: MT_02_LightGlass_DL
+    100026: MT_02_LightGlass_DR
+    100028: MT_02_LightGlass_L
+    100030: MT_02_LightGlass_R
+    100032: MT_02_Roof
+    100034: MT_02_Tailights
+    400000: //RootNode
+    400002: MT_02_Body
+    400004: MT_02_Dashboard
+    400006: MT_02_Door_R
+    400008: MT_02_Door_R001
+    400010: MT_02_Glass_B
+    400012: MT_02_Glass_BC
+    400014: MT_02_Glass_BL
+    400016: MT_02_Glass_F
+    400018: MT_02_Glass_L
+    400020: MT_02_Glass_R
+    400022: MT_02_Hood
+    400024: MT_02_LightGlass_DL
+    400026: MT_02_LightGlass_DR
+    400028: MT_02_LightGlass_L
+    400030: MT_02_LightGlass_R
+    400032: MT_02_Roof
+    400034: MT_02_Tailights
+    2300000: MT_02_Body
+    2300002: MT_02_Dashboard
+    2300004: MT_02_Door_R
+    2300006: MT_02_Door_R001
+    2300008: MT_02_Glass_B
+    2300010: MT_02_Glass_BC
+    2300012: MT_02_Glass_BL
+    2300014: MT_02_Glass_F
+    2300016: MT_02_Glass_L
+    2300018: MT_02_Glass_R
+    2300020: MT_02_Hood
+    2300022: MT_02_LightGlass_DL
+    2300024: MT_02_LightGlass_DR
+    2300026: MT_02_LightGlass_L
+    2300028: MT_02_LightGlass_R
+    2300030: MT_02_Roof
+    2300032: MT_02_Tailights
+    3300000: MT_02_Body
+    3300002: MT_02_Dashboard
+    3300004: MT_02_Door_R
+    3300006: MT_02_Door_R001
+    3300008: MT_02_Glass_B
+    3300010: MT_02_Glass_BC
+    3300012: MT_02_Glass_BL
+    3300014: MT_02_Glass_F
+    3300016: MT_02_Glass_L
+    3300018: MT_02_Glass_R
+    3300020: MT_02_Hood
+    3300022: MT_02_LightGlass_DL
+    3300024: MT_02_LightGlass_DR
+    3300026: MT_02_LightGlass_L
+    3300028: MT_02_LightGlass_R
+    3300030: MT_02_Roof
+    3300032: MT_02_Tailights
+    4300000: MT_02_Body
+    4300002: MT_02_Tailights
+    4300004: MT_02_Dashboard
+    4300006: MT_02_Door_R
+    4300008: MT_02_Hood
+    4300010: MT_02_Roof
+    4300012: MT_02_Glass_BL
+    4300014: MT_02_Glass_BC
+    4300016: MT_02_Glass_B
+    4300018: MT_02_Glass_F
+    4300020: MT_02_Glass_L
+    4300022: MT_02_Glass_R
+    4300024: MT_02_LightGlass_R
+    4300026: MT_02_LightGlass_DR
+    4300028: MT_02_LightGlass_DL
+    4300030: MT_02_LightGlass_L
+    4300032: MT_02_Door_R001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

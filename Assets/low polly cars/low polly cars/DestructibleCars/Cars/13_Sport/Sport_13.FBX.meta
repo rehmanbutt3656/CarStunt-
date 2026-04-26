@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: be201e7996217414f84dc5cf04b22380
+timeCreated: 1441289428
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sport_13_Body
+    100004: Sport_13_Door_L
+    100006: Sport_13_Door_R
+    100008: Sport_13_Hood
+    100010: Sport_13_LightGlass_L
+    100012: Sport_13_LightGlass_R
+    100014: Sport_13_Modern_Interior
+    100016: Sport_13_Tailights
+    100018: Sport_13_Window_B
+    100020: Sport_13_Window_F
+    100022: Sport_13_Window_LF
+    100024: Sport_13_Window_RF
+    100026: Sport_13_Window_TL
+    100028: Sport_13_Window_TR
+    400000: //RootNode
+    400002: Sport_13_Body
+    400004: Sport_13_Door_L
+    400006: Sport_13_Door_R
+    400008: Sport_13_Hood
+    400010: Sport_13_LightGlass_L
+    400012: Sport_13_LightGlass_R
+    400014: Sport_13_Modern_Interior
+    400016: Sport_13_Tailights
+    400018: Sport_13_Window_B
+    400020: Sport_13_Window_F
+    400022: Sport_13_Window_LF
+    400024: Sport_13_Window_RF
+    400026: Sport_13_Window_TL
+    400028: Sport_13_Window_TR
+    2300000: Sport_13_Body
+    2300002: Sport_13_Door_L
+    2300004: Sport_13_Door_R
+    2300006: Sport_13_Hood
+    2300008: Sport_13_LightGlass_L
+    2300010: Sport_13_LightGlass_R
+    2300012: Sport_13_Modern_Interior
+    2300014: Sport_13_Tailights
+    2300016: Sport_13_Window_B
+    2300018: Sport_13_Window_F
+    2300020: Sport_13_Window_LF
+    2300022: Sport_13_Window_RF
+    2300024: Sport_13_Window_TL
+    2300026: Sport_13_Window_TR
+    3300000: Sport_13_Body
+    3300002: Sport_13_Door_L
+    3300004: Sport_13_Door_R
+    3300006: Sport_13_Hood
+    3300008: Sport_13_LightGlass_L
+    3300010: Sport_13_LightGlass_R
+    3300012: Sport_13_Modern_Interior
+    3300014: Sport_13_Tailights
+    3300016: Sport_13_Window_B
+    3300018: Sport_13_Window_F
+    3300020: Sport_13_Window_LF
+    3300022: Sport_13_Window_RF
+    3300024: Sport_13_Window_TL
+    3300026: Sport_13_Window_TR
+    4300000: Sport_13_Window_TL
+    4300002: Sport_13_Modern_Interior
+    4300004: Sport_13_Tailights
+    4300006: Sport_13_Body
+    4300008: Sport_13_Hood
+    4300010: Sport_13_Door_R
+    4300012: Sport_13_Door_L
+    4300014: Sport_13_Window_RF
+    4300016: Sport_13_Window_B
+    4300018: Sport_13_Window_F
+    4300020: Sport_13_Window_TR
+    4300022: Sport_13_Window_LF
+    4300024: Sport_13_LightGlass_L
+    4300026: Sport_13_LightGlass_R
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

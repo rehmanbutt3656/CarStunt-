@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6ffd2f4663438c940a5c4fd7910b0de5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01 ramp material
+    100002: 01 ramp material.001
+    100004: Box002
+    100006: FrontLeftDownDetail.001
+    100008: FrontLeftDownDetail.002
+    100010: FrontLeftSpring.001
+    100012: FrontLeftSpring.002
+    100014: FrontLeftUpDetail.001
+    100016: FrontLeftUpDetail.002
+    100018: //RootNode
+    100020: S161.000
+    100022: S161.001
+    100024: S161.002
+    100026: S161.003
+    100028: S161.004
+    100030: S161.005
+    100032: S161.006
+    100034: S161.007
+    100036: S161.008
+    100038: S161.013
+    100040: S161.017
+    100042: S161.021
+    100044: S167
+    100046: S167.001
+    100048: S172
+    100050: S172.001
+    400000: 01 ramp material
+    400002: 01 ramp material.001
+    400004: Box002
+    400006: FrontLeftDownDetail.001
+    400008: FrontLeftDownDetail.002
+    400010: FrontLeftSpring.001
+    400012: FrontLeftSpring.002
+    400014: FrontLeftUpDetail.001
+    400016: FrontLeftUpDetail.002
+    400018: //RootNode
+    400020: S161.000
+    400022: S161.001
+    400024: S161.002
+    400026: S161.003
+    400028: S161.004
+    400030: S161.005
+    400032: S161.006
+    400034: S161.007
+    400036: S161.008
+    400038: S161.013
+    400040: S161.017
+    400042: S161.021
+    400044: S167
+    400046: S167.001
+    400048: S172
+    400050: S172.001
+    2100000: Material.002
+    2100002: Material.005
+    2100004: _Chrome_Menu.002
+    2100006: ShinyDiffuseColor.002
+    2100008: Material.001
+    2100010: red_1
+    2100012: road_2
+    2300000: 01 ramp material
+    2300002: 01 ramp material.001
+    2300004: Box002
+    2300006: FrontLeftDownDetail.001
+    2300008: FrontLeftDownDetail.002
+    2300010: FrontLeftSpring.001
+    2300012: FrontLeftSpring.002
+    2300014: FrontLeftUpDetail.001
+    2300016: FrontLeftUpDetail.002
+    2300018: S161.000
+    2300020: S161.001
+    2300022: S161.002
+    2300024: S161.003
+    2300026: S161.004
+    2300028: S161.005
+    2300030: S161.006
+    2300032: S161.007
+    2300034: S161.008
+    2300036: S161.013
+    2300038: S161.017
+    2300040: S161.021
+    2300042: S167
+    2300044: S167.001
+    2300046: S172
+    2300048: S172.001
+    3300000: 01 ramp material
+    3300002: 01 ramp material.001
+    3300004: Box002
+    3300006: FrontLeftDownDetail.001
+    3300008: FrontLeftDownDetail.002
+    3300010: FrontLeftSpring.001
+    3300012: FrontLeftSpring.002
+    3300014: FrontLeftUpDetail.001
+    3300016: FrontLeftUpDetail.002
+    3300018: S161.000
+    3300020: S161.001
+    3300022: S161.002
+    3300024: S161.003
+    3300026: S161.004
+    3300028: S161.005
+    3300030: S161.006
+    3300032: S161.007
+    3300034: S161.008
+    3300036: S161.013
+    3300038: S161.017
+    3300040: S161.021
+    3300042: S167
+    3300044: S167.001
+    3300046: S172
+    3300048: S172.001
+    4300000: 01 ramp material
+    4300002: FrontLeftDownDetail.001
+    4300004: FrontLeftSpring.001
+    4300006: FrontLeftUpDetail.001
+    4300008: S161.000
+    4300010: S161.001
+    4300012: S161.002
+    4300014: S161.003
+    4300016: S161.004
+    4300018: S161.005
+    4300020: S161.006
+    4300022: S161.007
+    4300024: S161.008
+    4300026: S161.017
+    4300028: S167
+    4300030: S172
+    4300032: Box002
+    4300034: 01 ramp material.001
+    4300036: FrontLeftDownDetail.002
+    4300038: FrontLeftSpring.002
+    4300040: FrontLeftUpDetail.002
+    4300042: S161.013
+    4300044: S161.021
+    4300046: S167.001
+    4300048: S172.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: fb80709b9ab3aca4db69fffb7721a225
+timeCreated: 1441360740
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Classic_14_Body
+    100004: Classic_14_Classical_Interior
+    100006: Classic_14_Door_LB
+    100008: Classic_14_Door_LF
+    100010: Classic_14_Door_RB
+    100012: Classic_14_Door_RF
+    100014: Classic_14_Hood
+    100016: Classic_14_LightGlass_L
+    100018: Classic_14_LightGlass_R
+    100020: Classic_14_Roof
+    100022: Classic_14_Tailights
+    100024: Classic_14_Trunk
+    100026: Classic_14_Window_B
+    100028: Classic_14_Window_F
+    100030: Classic_14_Window_LB
+    100032: Classic_14_Window_LF
+    100034: Classic_14_Window_LM
+    100036: Classic_14_Window_RB
+    100038: Classic_14_Window_RF
+    100040: Classic_14_Window_RM
+    400000: //RootNode
+    400002: Classic_14_Body
+    400004: Classic_14_Classical_Interior
+    400006: Classic_14_Door_LB
+    400008: Classic_14_Door_LF
+    400010: Classic_14_Door_RB
+    400012: Classic_14_Door_RF
+    400014: Classic_14_Hood
+    400016: Classic_14_LightGlass_L
+    400018: Classic_14_LightGlass_R
+    400020: Classic_14_Roof
+    400022: Classic_14_Tailights
+    400024: Classic_14_Trunk
+    400026: Classic_14_Window_B
+    400028: Classic_14_Window_F
+    400030: Classic_14_Window_LB
+    400032: Classic_14_Window_LF
+    400034: Classic_14_Window_LM
+    400036: Classic_14_Window_RB
+    400038: Classic_14_Window_RF
+    400040: Classic_14_Window_RM
+    2300000: Classic_14_Body
+    2300002: Classic_14_Classical_Interior
+    2300004: Classic_14_Door_LB
+    2300006: Classic_14_Door_LF
+    2300008: Classic_14_Door_RB
+    2300010: Classic_14_Door_RF
+    2300012: Classic_14_Hood
+    2300014: Classic_14_LightGlass_L
+    2300016: Classic_14_LightGlass_R
+    2300018: Classic_14_Roof
+    2300020: Classic_14_Tailights
+    2300022: Classic_14_Trunk
+    2300024: Classic_14_Window_B
+    2300026: Classic_14_Window_F
+    2300028: Classic_14_Window_LB
+    2300030: Classic_14_Window_LF
+    2300032: Classic_14_Window_LM
+    2300034: Classic_14_Window_RB
+    2300036: Classic_14_Window_RF
+    2300038: Classic_14_Window_RM
+    3300000: Classic_14_Body
+    3300002: Classic_14_Classical_Interior
+    3300004: Classic_14_Door_LB
+    3300006: Classic_14_Door_LF
+    3300008: Classic_14_Door_RB
+    3300010: Classic_14_Door_RF
+    3300012: Classic_14_Hood
+    3300014: Classic_14_LightGlass_L
+    3300016: Classic_14_LightGlass_R
+    3300018: Classic_14_Roof
+    3300020: Classic_14_Tailights
+    3300022: Classic_14_Trunk
+    3300024: Classic_14_Window_B
+    3300026: Classic_14_Window_F
+    3300028: Classic_14_Window_LB
+    3300030: Classic_14_Window_LF
+    3300032: Classic_14_Window_LM
+    3300034: Classic_14_Window_RB
+    3300036: Classic_14_Window_RF
+    3300038: Classic_14_Window_RM
+    4300000: Classic_14_LightGlass_R
+    4300002: Classic_14_Classical_Interior
+    4300004: Classic_14_Tailights
+    4300006: Classic_14_Body
+    4300008: Classic_14_Hood
+    4300010: Classic_14_Door_RF
+    4300012: Classic_14_Door_RB
+    4300014: Classic_14_Trunk
+    4300016: Classic_14_Roof
+    4300018: Classic_14_Door_LF
+    4300020: Classic_14_Door_LB
+    4300022: Classic_14_Window_F
+    4300024: Classic_14_Window_B
+    4300026: Classic_14_LightGlass_L
+    4300028: Classic_14_Window_RF
+    4300030: Classic_14_Window_RB
+    4300032: Classic_14_Window_RM
+    4300034: Classic_14_Window_LB
+    4300036: Classic_14_Window_LM
+    4300038: Classic_14_Window_LF
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

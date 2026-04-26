@@ -1,0 +1,229 @@
+Converting script [1 / 22]	[\GameController.cs]
+	Fragments : 5
+		[ 0] : Line:  597	InputMethod   GetKey              	(KeyCode.Escape)
+		[ 1] : Line:  604	InputMethod   GetKeyDown          	(KeyCode.W)
+		[ 2] : Line:  607	InputMethod   GetKeyUp            	(KeyCode.W)
+		[ 3] : Line:  610	InputMethod   GetKeyDown          	(KeyCode.S)
+		[ 4] : Line:  613	InputMethod   GetKeyUp            	(KeyCode.S)
+
+Converting script [2 / 22]	[\MainMenuController.cs]
+	Fragments : 1
+		[ 0] : Line:   79	InputMethod   GetKey              	(KeyCode.Escape)
+
+Converting script [3 / 22]	[\Cartoon Town and Farm\Tools\CameraBehaviors.cs]
+	Fragments : 2
+		[ 0] : Line:   24	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   25	InputMethod   GetAxis             	("Vertical")
+
+Converting script [4 / 22]	[\DownloadedAssets\LevelDesign\GrassRoadRace\Script\CameraMove.cs]
+	Fragments : 2
+		[ 0] : Line:   27	InputMethod   GetKeyDown          	(KeyCode.A)
+		[ 1] : Line:   31	InputMethod   GetKeyDown          	(KeyCode.S)
+
+Converting script [5 / 22]	[\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs]
+	Fragments : 5
+		[ 0] : Line:  111	Other mod.	[Screen.fullScreen]
+		[ 1] : Line:  111	Other mod.	[Screen.fullScreen]
+		[ 2] : Line:  112	Other mod.	[Screen.fullScreen]
+		[ 3] : Line:  114	Other mod.	[Screen.SetResolution(Screen.currentResolution.width, Screen.currentResolution.height, true)]
+		[ 4] : Line:  118	Other mod.	[Screen.SetResolution(m_DefWidth, m_DefHeight, false)]
+
+Converting script [6 / 22]	[\KinematicCarSuspension - SportCar\Scripts\CameraController.cs]
+	Fragments : 4
+		[ 0] : Line:   31	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[ 1] : Line:   32	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   33	InputMethod   GetAxis             	("Mouse Y")
+		[ 3] : Line:   36	InputMethod   GetAxis             	("Mouse ScrollWheel")
+
+Converting script [7 / 22]	[\KinematicCarSuspension - SportCar\Scripts\SimpleCarController.cs]
+	Fragments : 5
+		[ 0] : Line:   32	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   42	InputMethod   GetAxis             	("Vertical")
+		[ 2] : Line:   47	InputMethod   GetAxis             	("Vertical")
+		[ 3] : Line:   49	InputMethod   GetAxis             	("Vertical")
+		[ 4] : Line:   54	InputMethod   GetKey              	(KeyCode.Space)
+
+Converting script [8 / 22]	[\leantween script(anim)\LeanTween\LeanTween.cs]
+	Fragments : 4
+		[ 0] : Line: 3603	InputProperty touchCount          
+		[ 1] : Line: 3604	InputProperty touches             
+		[ 2] : Line: 3605	InputMethod   GetMouseButton      	(0)
+		[ 3] : Line: 3606	InputProperty mousePosition       
+
+Converting script [9 / 22]	[\living birds\demo\livingBirdsDemoScript.cs]
+	Fragments : 6
+		[ 0] : Line:   22	InputMethod   GetKey              	(KeyCode.D)
+		[ 1] : Line:   22	InputMethod   GetKey              	(KeyCode.RightArrow)
+		[ 2] : Line:   25	InputMethod   GetKey              	(KeyCode.A)
+		[ 3] : Line:   25	InputMethod   GetKey              	(KeyCode.LeftArrow)
+		[ 4] : Line:   28	InputMethod   GetMouseButtonDown  	(0)
+		[ 5] : Line:   29	InputProperty mousePosition       
+
+Converting script [10 / 22]	[\Marcos Schultz\MSAdvancedCameraController\Example\VehicleControllerMSACC.cs]
+	Fragments : 4
+		[ 0] : Line:   52	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   59	InputMethod   GetAxis             	("Vertical")
+		[ 2] : Line:   63	InputMethod   GetAxis             	("Vertical")
+		[ 3] : Line:   66	InputMethod   GetKeyDown          	(KeyCode.Space)
+
+Converting script [11 / 22]	[\Marcos Schultz\MSAdvancedCameraController\Scripts\MSCameraController.cs]
+	Fragments : 15
+		[ 0] : Line:  519	InputMethod   GetKey              	(CameraSettings.firstPerson.keyToRotate)
+		[ 1] : Line:  601	InputMethod   GetKey              	(CameraSettings.orbital.keyToRotate)
+		[ 2] : Line:  625	InputMethod   GetKey              	(CameraSettings.OrbitalThatFollows.keyToRotate)
+		[ 3] : Line:  669	InputMethod   GetKeyDown          	(CameraSettings.OrbitalThatFollows.resetKey)
+		[ 4] : Line:  727	InputMethod   GetKey              	(CameraSettings.ETS_StyleCamera.keyToRotate)
+		[ 5] : Line:  769	InputMethod   GetKey              	(CameraSettings.FlyCamera_OnlyWindows.speedKeyCode)
+		[ 6] : Line:  772	InputMethod   GetAxis             	(CameraSettings.FlyCamera_OnlyWindows.horizontalMove)
+		[ 7] : Line:  773	InputMethod   GetAxis             	(CameraSettings.FlyCamera_OnlyWindows.verticalMove)
+		[ 8] : Line:  775	InputMethod   GetKey              	(CameraSettings.FlyCamera_OnlyWindows.moveUp)
+		[ 9] : Line:  778	InputMethod   GetKey              	(CameraSettings.FlyCamera_OnlyWindows.moveDown)
+		[10] : Line:  810	InputMethod   GetAxis             	(CameraSettings.inputMouseX)
+		[11] : Line:  811	InputMethod   GetAxis             	(CameraSettings.inputMouseY)
+		[12] : Line:  812	InputMethod   GetAxis             	(CameraSettings.inputMouseScrollWheel)
+		[13] : Line:  827	InputMethod   GetKeyDown          	(CameraSettings.cameraSwitchKey)
+		[14] : Line:  831	InputMethod   GetKeyDown          	(CameraSettings.cameraSwitchKey)
+
+Converting script [12 / 22]	[\Plugins\SimpleInput\Scripts\SimpleInput.cs]
+	Fragments : 9
+		[ 0] : Line:  277	InputMethod   GetKeyDown          	(key )
+		[ 1] : Line:  289	InputMethod   GetKey              	(key )
+		[ 2] : Line:  301	InputMethod   GetKeyUp            	(key )
+		[ 3] : Line:  432	InputMethod   GetAxisRaw          	(axis )
+		[ 4] : Line:  451	InputMethod   GetButton           	(button )
+		[ 5] : Line:  470	InputMethod   GetMouseButton      	(button )
+		[ 6] : Line:  491	InputMethod   GetAxisRaw          	(trackedUnityAxes[i].Key )
+		[ 7] : Line:  494	InputMethod   GetButton           	(trackedUnityButtons[i].Key )
+		[ 8] : Line:  497	InputMethod   GetMouseButton      	(trackedUnityMouseButtons[i].Key )
+
+Converting script [13 / 22]	[\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputKeyboard.cs]
+	Fragments : 1
+		[ 0] : Line:   27	InputMethod   GetKey              	(key )
+
+Converting script [14 / 22]	[\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputMouse.cs]
+	Fragments : 3
+		[ 0] : Line:   29	InputProperty touchCount          
+		[ 1] : Line:   31	InputMethod   GetAxisRaw          	("Mouse X" )
+		[ 2] : Line:   32	InputMethod   GetAxisRaw          	("Mouse Y" )
+
+Converting script [15 / 22]	[\Plugins\SimpleInput\Scripts\ButtonInputs\ButtonInputKeyboard.cs]
+	Fragments : 1
+		[ 0] : Line:   26	InputMethod   GetKey              	(key )
+
+Converting script [16 / 22]	[\Plugins\SimpleInput\Scripts\Core\SimpleInputMultiDragListener.cs]
+	Fragments : 3
+		[ 0] : Line:  131	InputMethod   GetMouseButton      	((int)
+		[ 1] : Line:  135	InputProperty touchCount          
+		[ 2] : Line:  137	InputMethod   GetTouch            	(i )
+
+Converting script [17 / 22]	[\Plugins\SimpleInput\Scripts\Core\SimpleInputUtils.cs]
+	Fragments : 5
+		[ 0] : Line:   27	InputProperty touchCount          
+		[ 1] : Line:   29	InputMethod   GetTouch            	(i )
+		[ 2] : Line:   38	InputProperty touchCount          
+		[ 3] : Line:   40	InputMethod   GetTouch            	(i )
+		[ 4] : Line:   44	InputMethod   GetMouseButton      	((int)
+
+Converting script [18 / 22]	[\Plugins\SimpleInput\Scripts\Core\SwipeGestureBase.cs]
+	Fragments : 1
+		[ 0] : Line:   52	InputProperty value               
+
+Converting script [19 / 22]	[\Plugins\SimpleInput\Scripts\KeyInputs\KeyInputKeyboard.cs]
+	Fragments : 1
+		[ 0] : Line:   26	InputMethod   GetKey              	(realKey )
+
+Converting script [20 / 22]	[\Plugins\SimpleInput\Scripts\MouseButtonInputs\MouseButtonInputKeyboard.cs]
+	Fragments : 1
+		[ 0] : Line:   26	InputMethod   GetKey              	(key )
+
+Converting script [21 / 22]	[\SBPVP v.1.0\Scripts\CarControlCS.cs]
+	Fragments : 19
+		[ 0] : Line:  317	Other mod.	[Touch]
+		[ 1] : Line:  317	InputProperty touches             
+		[ 2] : Line:  454	InputMethod   GetKeyDown          	(KeyCode.I)
+		[ 3] : Line:  459	InputMethod   GetKeyUp            	(KeyCode.I)
+		[ 4] : Line:  464	InputMethod   GetKeyDown          	(KeyCode.K)
+		[ 5] : Line:  469	InputMethod   GetKeyUp            	(KeyCode.K)
+		[ 6] : Line:  474	InputMethod   GetKeyDown          	(KeyCode.J)
+		[ 7] : Line:  482	InputMethod   GetKeyUp            	(KeyCode.J)
+		[ 8] : Line:  489	InputMethod   GetKeyDown          	(KeyCode.L)
+		[ 9] : Line:  497	InputMethod   GetKeyUp            	(KeyCode.L)
+		[10] : Line:  578	InputMethod   GetAxis             	("Vertical")
+		[11] : Line:  579	InputMethod   GetAxis             	("Vertical")
+		[12] : Line:  589	InputMethod   GetAxis             	("Vertical")
+		[13] : Line:  590	InputMethod   GetAxis             	("Vertical")
+		[14] : Line:  600	InputMethod   GetAxis             	("Vertical")
+		[15] : Line:  601	InputMethod   GetAxis             	("Vertical")
+		[16] : Line:  602	InputMethod   GetAxis             	("Vertical")
+		[17] : Line:  603	InputMethod   GetAxis             	("Vertical")
+		[18] : Line:  628	InputMethod   GetButton           	("Jump")
+
+Converting script [22 / 22]	[\Smooth! Orbit Cam\Scripts\SmoothOrbitCam.cs]
+	Fragments : 39
+		[ 0] : Line:  251	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:  252	InputMethod   GetAxis             	("Mouse Y")
+		[ 2] : Line:  255	InputMethod   GetAxis             	("Mouse X")
+		[ 3] : Line:  256	InputMethod   GetAxis             	("Mouse Y")
+		[ 4] : Line:  281	InputMethod   GetKey              	(orbitKey)
+		[ 5] : Line:  293	InputMethod   GetAxis             	("Mouse X")
+		[ 6] : Line:  295	InputMethod   GetAxis             	("Mouse Y")
+		[ 7] : Line:  300	InputMethod   GetAxis             	("Mouse X")
+		[ 8] : Line:  302	InputMethod   GetAxis             	("Mouse Y")
+		[ 9] : Line:  310	InputMethod   GetAxis             	("Mouse ScrollWheel")
+		[10] : Line:  317	InputProperty touchCount          
+		[11] : Line:  322	InputMethod   GetTouch            	(0)
+		[12] : Line:  323	InputMethod   GetTouch            	(0)
+		[13] : Line:  325	InputMethod   GetTouch            	(0)
+		[14] : Line:  326	InputMethod   GetTouch            	(0)
+		[15] : Line:  331	InputMethod   GetTouch            	(0)
+		[16] : Line:  332	InputMethod   GetTouch            	(0)
+		[17] : Line:  334	InputMethod   GetTouch            	(0)
+		[18] : Line:  335	InputMethod   GetTouch            	(0)
+		[19] : Line:  341	InputProperty touchCount          
+		[20] : Line:  343	Other mod.	[Touch]
+		[21] : Line:  343	InputMethod   GetTouch            	(0)
+		[22] : Line:  344	Other mod.	[Touch]
+		[23] : Line:  344	InputMethod   GetTouch            	(1)
+		[24] : Line:  397	InputMethod   GetKey              	(panKey)
+		[25] : Line:  405	InputProperty touchCount          
+		[26] : Line:  408	InputMethod   GetTouch            	(0)
+		[27] : Line:  409	InputMethod   GetTouch            	(0)
+		[28] : Line:  410	InputMethod   GetTouch            	(1)
+		[29] : Line:  411	InputMethod   GetTouch            	(0)
+		[30] : Line:  412	InputMethod   GetTouch            	(0)
+		[31] : Line:  413	InputMethod   GetTouch            	(0)
+		[32] : Line:  414	InputMethod   GetTouch            	(1)
+		[33] : Line:  415	InputMethod   GetTouch            	(0)
+		[34] : Line:  423	InputProperty touchCount          
+		[35] : Line:  424	InputMethod   GetTouch            	(0)
+		[36] : Line:  425	InputMethod   GetTouch            	(0)
+		[37] : Line:  426	InputMethod   GetTouch            	(0)
+		[38] : Line:  427	InputMethod   GetTouch            	(0)
+
+
+22 scripts modified!
+Overwriting actual scripts...
+	[0 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\GameController.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\GameController.cs]
+	[1 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\MainMenuController.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\MainMenuController.cs]
+	[2 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Cartoon Town and Farm\Tools\CameraBehaviors.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Cartoon Town and Farm\Tools\CameraBehaviors.cs]
+	[3 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\DownloadedAssets\LevelDesign\GrassRoadRace\Script\CameraMove.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\DownloadedAssets\LevelDesign\GrassRoadRace\Script\CameraMove.cs]
+	[4 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs]
+	[5 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\KinematicCarSuspension - SportCar\Scripts\CameraController.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\KinematicCarSuspension - SportCar\Scripts\CameraController.cs]
+	[6 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\KinematicCarSuspension - SportCar\Scripts\SimpleCarController.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\KinematicCarSuspension - SportCar\Scripts\SimpleCarController.cs]
+	[7 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\leantween script(anim)\LeanTween\LeanTween.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\leantween script(anim)\LeanTween\LeanTween.cs]
+	[8 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\living birds\demo\livingBirdsDemoScript.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\living birds\demo\livingBirdsDemoScript.cs]
+	[9 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Marcos Schultz\MSAdvancedCameraController\Example\VehicleControllerMSACC.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Marcos Schultz\MSAdvancedCameraController\Example\VehicleControllerMSACC.cs]
+	[10 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Marcos Schultz\MSAdvancedCameraController\Scripts\MSCameraController.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Marcos Schultz\MSAdvancedCameraController\Scripts\MSCameraController.cs]
+	[11 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\SimpleInput.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\SimpleInput.cs]
+	[12 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputKeyboard.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputKeyboard.cs]
+	[13 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputMouse.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\AxisInputs\AxisInputMouse.cs]
+	[14 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\ButtonInputs\ButtonInputKeyboard.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\ButtonInputs\ButtonInputKeyboard.cs]
+	[15 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\Core\SimpleInputMultiDragListener.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\Core\SimpleInputMultiDragListener.cs]
+	[16 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\Core\SimpleInputUtils.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\Core\SimpleInputUtils.cs]
+	[17 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\Core\SwipeGestureBase.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\Core\SwipeGestureBase.cs]
+	[18 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\KeyInputs\KeyInputKeyboard.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\KeyInputs\KeyInputKeyboard.cs]
+	[19 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Plugins\SimpleInput\Scripts\MouseButtonInputs\MouseButtonInputKeyboard.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Plugins\SimpleInput\Scripts\MouseButtonInputs\MouseButtonInputKeyboard.cs]
+	[20 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\SBPVP v.1.0\Scripts\CarControlCS.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\SBPVP v.1.0\Scripts\CarControlCS.cs]
+	[21 / 22] from  [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/CF2-Data/Script-Backups/2020-06-24-15-24\Assets-After/\Smooth! Orbit Cam\Scripts\SmoothOrbitCam.cs] to [F:/Projects/MyWork/FirstGame/Impossible Advance Bus Driving new env/Assets/\Smooth! Orbit Cam\Scripts\SmoothOrbitCam.cs]
+
+Overwriting COMPLETED!

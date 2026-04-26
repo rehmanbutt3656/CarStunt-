@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 3830ea58cc5a4ba45895d1029b1bfe0b
+timeCreated: 1441361611
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Classic_15_Body
+    100004: Classic_15_Door_L
+    100006: Classic_15_Door_R
+    100008: Classic_15_Glass_BL
+    100010: Classic_15_Glass_BR
+    100012: Classic_15_Glass_F
+    100014: Classic_15_Glass_FL
+    100016: Classic_15_Glass_FR
+    100018: Classic_15_Glass_R
+    100020: Classic_15_Hood
+    100022: Classic_15_Interior
+    100024: Classic_15_Roof
+    100026: Classic_15_SmallGlass_LC
+    100028: Classic_15_SmallGlass_LL
+    100030: Classic_15_SmallGlass_RC
+    100032: Classic_15_SmallGlass_RR
+    100034: Classic_15_Taillights
+    100036: Classic_15_Trunk
+    400000: //RootNode
+    400002: Classic_15_Body
+    400004: Classic_15_Door_L
+    400006: Classic_15_Door_R
+    400008: Classic_15_Glass_BL
+    400010: Classic_15_Glass_BR
+    400012: Classic_15_Glass_F
+    400014: Classic_15_Glass_FL
+    400016: Classic_15_Glass_FR
+    400018: Classic_15_Glass_R
+    400020: Classic_15_Hood
+    400022: Classic_15_Interior
+    400024: Classic_15_Roof
+    400026: Classic_15_SmallGlass_LC
+    400028: Classic_15_SmallGlass_LL
+    400030: Classic_15_SmallGlass_RC
+    400032: Classic_15_SmallGlass_RR
+    400034: Classic_15_Taillights
+    400036: Classic_15_Trunk
+    2300000: Classic_15_Body
+    2300002: Classic_15_Door_L
+    2300004: Classic_15_Door_R
+    2300006: Classic_15_Glass_BL
+    2300008: Classic_15_Glass_BR
+    2300010: Classic_15_Glass_F
+    2300012: Classic_15_Glass_FL
+    2300014: Classic_15_Glass_FR
+    2300016: Classic_15_Glass_R
+    2300018: Classic_15_Hood
+    2300020: Classic_15_Interior
+    2300022: Classic_15_Roof
+    2300024: Classic_15_SmallGlass_LC
+    2300026: Classic_15_SmallGlass_LL
+    2300028: Classic_15_SmallGlass_RC
+    2300030: Classic_15_SmallGlass_RR
+    2300032: Classic_15_Taillights
+    2300034: Classic_15_Trunk
+    3300000: Classic_15_Body
+    3300002: Classic_15_Door_L
+    3300004: Classic_15_Door_R
+    3300006: Classic_15_Glass_BL
+    3300008: Classic_15_Glass_BR
+    3300010: Classic_15_Glass_F
+    3300012: Classic_15_Glass_FL
+    3300014: Classic_15_Glass_FR
+    3300016: Classic_15_Glass_R
+    3300018: Classic_15_Hood
+    3300020: Classic_15_Interior
+    3300022: Classic_15_Roof
+    3300024: Classic_15_SmallGlass_LC
+    3300026: Classic_15_SmallGlass_LL
+    3300028: Classic_15_SmallGlass_RC
+    3300030: Classic_15_SmallGlass_RR
+    3300032: Classic_15_Taillights
+    3300034: Classic_15_Trunk
+    4300000: Classic_15_Taillights
+    4300002: Classic_15_Body
+    4300004: Classic_15_Interior
+    4300006: Classic_15_Door_R
+    4300008: Classic_15_Door_L
+    4300010: Classic_15_Roof
+    4300012: Classic_15_Trunk
+    4300014: Classic_15_Hood
+    4300016: Classic_15_Glass_F
+    4300018: Classic_15_Glass_FR
+    4300020: Classic_15_Glass_BR
+    4300022: Classic_15_Glass_R
+    4300024: Classic_15_Glass_BL
+    4300026: Classic_15_Glass_FL
+    4300028: Classic_15_SmallGlass_RR
+    4300030: Classic_15_SmallGlass_RC
+    4300032: Classic_15_SmallGlass_LL
+    4300034: Classic_15_SmallGlass_LC
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 4461ea68937147547a70a908b0157f55
+timeCreated: 1500975449
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: brake_BL
+    100004: brake_BR
+    100006: brake_FL
+    100008: brake_FR
+    100010: //RootNode
+    100012: Door_L
+    100014: Door_R
+    100016: M
+    100018: Slider01
+    100020: Slider01 1
+    100022: Slider01 10
+    100024: Slider01 11
+    100026: Slider01 12
+    100028: Slider01 13
+    100030: Slider01 14
+    100032: Slider01 2
+    100034: Slider01 3
+    100036: Slider01 4
+    100038: Slider01 5
+    100040: Slider01 6
+    100042: Slider01 7
+    100044: Slider01 8
+    100046: Slider01 9
+    100048: Steer
+    100050: Wheel_BL
+    100052: Wheel_BR
+    100054: Wheel_FL
+    100056: Wheel_FR
+    100058: Wing
+    400000: Body
+    400002: brake_BL
+    400004: brake_BR
+    400006: brake_FL
+    400008: brake_FR
+    400010: //RootNode
+    400012: Door_L
+    400014: Door_R
+    400016: M
+    400018: Slider01
+    400020: Slider01 1
+    400022: Slider01 10
+    400024: Slider01 11
+    400026: Slider01 12
+    400028: Slider01 13
+    400030: Slider01 14
+    400032: Slider01 2
+    400034: Slider01 3
+    400036: Slider01 4
+    400038: Slider01 5
+    400040: Slider01 6
+    400042: Slider01 7
+    400044: Slider01 8
+    400046: Slider01 9
+    400048: Steer
+    400050: Wheel_BL
+    400052: Wheel_BR
+    400054: Wheel_FL
+    400056: Wheel_FR
+    400058: Wing
+    2300000: Body
+    2300002: brake_BL
+    2300004: brake_BR
+    2300006: brake_FL
+    2300008: brake_FR
+    2300010: Door_L
+    2300012: Door_R
+    2300014: M
+    2300016: Steer
+    2300018: Wheel_BL
+    2300020: Wheel_BR
+    2300022: Wheel_FL
+    2300024: Wheel_FR
+    2300026: Wing
+    3300000: Body
+    3300002: brake_BL
+    3300004: brake_BR
+    3300006: brake_FL
+    3300008: brake_FR
+    3300010: Door_L
+    3300012: Door_R
+    3300014: M
+    3300016: Steer
+    3300018: Wheel_BL
+    3300020: Wheel_BR
+    3300022: Wheel_FL
+    3300024: Wheel_FR
+    3300026: Wing
+    4300000: Door_R
+    4300002: Body
+    4300004: Door_L
+    4300006: Steer
+    4300008: brake_FL
+    4300010: Wheel_FL
+    4300012: Wheel_FR
+    4300014: brake_FR
+    4300016: brake_BR
+    4300018: Wheel_BR
+    4300020: Wheel_BL
+    4300022: brake_BL
+    4300024: M
+    4300026: Wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

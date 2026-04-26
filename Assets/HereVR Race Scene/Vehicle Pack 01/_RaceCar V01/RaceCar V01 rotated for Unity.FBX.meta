@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 3933b61ce56ab674ea4fada979abbb3c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RaceCar V01 Windshield
+    100004: RC Tyre V01 FL_HI
+    100006: RC Tyre V01 FL_LOW
+    100008: RC Tyre V01 FL_MID
+    100010: RC Tyre V01 FR_HI
+    100012: RC Tyre V01 FR_LOW
+    100014: RC Tyre V01 FR_MID
+    100016: RC Tyre V01 RL_HI
+    100018: RC Tyre V01 RL_LOW
+    100020: RC Tyre V01 RL_MID
+    100022: RC Tyre V01 RR_HI
+    100024: RC Tyre V01 RR_LOW
+    100026: RC Tyre V01 RR_MID
+    100028: RC V01 SuspRot FL
+    100030: RC V01 SuspRot FR
+    400000: //RootNode
+    400002: RaceCar V01 Windshield
+    400004: RC Tyre V01 FL_HI
+    400006: RC Tyre V01 FL_LOW
+    400008: RC Tyre V01 FL_MID
+    400010: RC Tyre V01 FR_HI
+    400012: RC Tyre V01 FR_LOW
+    400014: RC Tyre V01 FR_MID
+    400016: RC Tyre V01 RL_HI
+    400018: RC Tyre V01 RL_LOW
+    400020: RC Tyre V01 RL_MID
+    400022: RC Tyre V01 RR_HI
+    400024: RC Tyre V01 RR_LOW
+    400026: RC Tyre V01 RR_MID
+    400028: RC V01 SuspRot FL
+    400030: RC V01 SuspRot FR
+    2300000: //RootNode
+    2300002: RaceCar V01 Windshield
+    2300004: RC Tyre V01 FL_HI
+    2300006: RC Tyre V01 FL_LOW
+    2300008: RC Tyre V01 FL_MID
+    2300010: RC Tyre V01 FR_HI
+    2300012: RC Tyre V01 FR_LOW
+    2300014: RC Tyre V01 FR_MID
+    2300016: RC Tyre V01 RL_HI
+    2300018: RC Tyre V01 RL_LOW
+    2300020: RC Tyre V01 RL_MID
+    2300022: RC Tyre V01 RR_HI
+    2300024: RC Tyre V01 RR_LOW
+    2300026: RC Tyre V01 RR_MID
+    2300028: RC V01 SuspRot FL
+    2300030: RC V01 SuspRot FR
+    3300000: //RootNode
+    3300002: RaceCar V01 Windshield
+    3300004: RC Tyre V01 FL_HI
+    3300006: RC Tyre V01 FL_LOW
+    3300008: RC Tyre V01 FL_MID
+    3300010: RC Tyre V01 FR_HI
+    3300012: RC Tyre V01 FR_LOW
+    3300014: RC Tyre V01 FR_MID
+    3300016: RC Tyre V01 RL_HI
+    3300018: RC Tyre V01 RL_LOW
+    3300020: RC Tyre V01 RL_MID
+    3300022: RC Tyre V01 RR_HI
+    3300024: RC Tyre V01 RR_LOW
+    3300026: RC Tyre V01 RR_MID
+    3300028: RC V01 SuspRot FL
+    3300030: RC V01 SuspRot FR
+    4300000: RaceCar V01 Body
+    4300002: RC V01 SuspRot FL
+    4300004: RC Tyre V01 FL_HI
+    4300006: RC Tyre V01 FL_MID
+    4300008: RC Tyre V01 FL_LOW
+    4300010: RaceCar V01 Windshield
+    4300012: RC V01 SuspRot FR
+    4300014: RC Tyre V01 FR_HI
+    4300016: RC Tyre V01 FR_MID
+    4300018: RC Tyre V01 FR_LOW
+    4300020: RC Tyre V01 RR_HI
+    4300022: RC Tyre V01 RR_MID
+    4300024: RC Tyre V01 RR_LOW
+    4300026: RC Tyre V01 RL_HI
+    4300028: RC Tyre V01 RL_MID
+    4300030: RC Tyre V01 RL_LOW
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
